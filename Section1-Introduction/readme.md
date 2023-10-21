@@ -170,11 +170,11 @@ Vous avez une question sur votre cours Spring Framework 6? [Consultez ces FAQ!](
 
 ## Obtenir la configuration de votre environnement de développement
 ### Versions recommandées
-| Recommandé | Référence | Remarques |
-|------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------|
-| Oracle Java 17 JDK | [Télécharger]([https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](https://www.oracle.com/java/technologies/downloads/#java17 ) | Java 17 ou supérieur est requis pour Spring Framework 6 |
-| IntelliJ 2022 ou supérieur | [Télécharger](https://www.jetbrains.com/idea/download/) | Édition ultime recommandée. Les étudiants peuvent obtenir une licence d'essai gratuite de 120 [ici](https://github.com/springframeworkguru/spring5webapp/wiki/Which-IDE-to-Use%3F#how-do-i-get-the-free-120- jour d'essai à intellij-ultimate) |
-| Maven 3.8.0 ou supérieur | [Télécharger](https://maven.apache.org/download.cgi) | [Instructions d'installation](https://maven.apache.org/install.html) |
-| Gradle 7.6 ou supérieur | [Télécharger](https://gradle.org/install/) | **Remarque:** Utilisez la version 5 ou supérieure si vous utilisez Java 11 |
-| Git 2.39 ou supérieur | [Télécharger](https://git-scm.com/downloads) | |
-| Clients Git GUI | [Téléchargements](https://git-scm.com/downloads/guis) | Non requis. Mais peut être utile si vous êtes nouveau sur Git. SourceTree est une bonne option pour les utilisateurs Mac et Windows. |
+| Recommandé | Référence                                                                                                                                                          | Remarques |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Oracle Java 17 JDK | [Télécharger]([https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html])(https://www.oracle.com/java/technologies/downloads/#java17 ) | Java 17 ou supérieur est requis pour Spring Framework 6 |
+| IntelliJ 2022 ou supérieur | [Télécharger](https://www.jetbrains.com/idea/download/)                                                                                                            | Édition ultime recommandée. Les étudiants peuvent obtenir une licence d'essai gratuite de 120 [ici](https://github.com/springframeworkguru/spring5webapp/wiki/Which-IDE-to-Use%3F#how-do-i-get-the-free-120- jour d'essai à intellij-ultimate) |
+| Maven 3.8.0 ou supérieur | [Télécharger](https://maven.apache.org/download.cgi)                                                                                                               | [Instructions d'installation](https://maven.apache.org/install.html) |
+| Gradle 7.6 ou supérieur | [Télécharger](https://gradle.org/install/)                                                                                                                         | **Remarque:** Utilisez la version 5 ou supérieure si vous utilisez Java 11 |
+| Git 2.39 ou supérieur | [Télécharger](https://git-scm.com/downloads)                                                                                                                       | |
+| Clients Git GUI | [Téléchargements](https://git-scm.com/downloads/guis)                                                                                                              | Non requis. Mais peut être utile si vous êtes nouveau sur Git. SourceTree est une bonne option pour les utilisateurs Mac et Windows. |
